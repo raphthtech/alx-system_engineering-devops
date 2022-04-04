@@ -1,1 +1,2 @@
-This is about shell redirection
+This scripts explains shell redirections commands
+used in this project
